@@ -1,0 +1,13 @@
+/*==========  Mobile First Method  ==========*/
+/*==========   ==========*/
+@media (min-width: 1366px) {
+  .container {
+    max-width: 1366px;
+    padding-left: 20px;
+  }
+}
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 320px;
+  }
+}
