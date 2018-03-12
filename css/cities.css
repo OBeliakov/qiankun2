@@ -54,7 +54,6 @@ img {
   margin-right: 3.5px;
   width: 16px;
   height: 14.5px;
-
 }
 
 .stars-rating .i-star.not-active {
@@ -67,7 +66,6 @@ img {
   line-height: 10px;
   height: 20px;
   padding-top: 10px;
-  
 }
 .likes-rating i {
   display: block;
@@ -79,26 +77,18 @@ img {
 .likes-rating .i-like {
   width: 10px;
   height: 10px;
-  
-  
-
 }
 
 .i-type-city {
   background: url(../images/icon/type-city.svg) no-repeat;
-
-
 }
 .i-services {
   background: url(../images/icon/service.svg) no-repeat;
   background-position:center 0px;
-  
-  
 }
 .i-news {
   background: url(../images/icon/news.svg) no-repeat;
   background-size: 21px 16px;
-
 }
 .i-phone {
   background: url(../images/icon/phone.svg) no-repeat;
@@ -113,8 +103,7 @@ img {
 	width: 50px!important;
 	height: 55px;
 	background: url(../images/icon/kazan.png) no-repeat;
-  	background-position: 1.5px 0px;
-
+ 	background-position: 1.5px 0px;
 }
 .i-sochi {
   background: url(../images/icon/sochi.png) no-repeat;
@@ -122,28 +111,22 @@ img {
 .i-excursions {
   background: url(../images/icon/excursions.svg) no-repeat;
   background-position:6px center;
-background-size: 54px 34px;
-
+  background-size: 54px 34px;
 }
 .i-attractions {
   background: url(../images/icon/attraction.svg) no-repeat;
   background-position:center;
   background-size: 23px 51px;
-
-  
 }
 .i-eat {
   background: url(../images/icon/eating.svg) no-repeat;
   background-position:center 15px;
 background-size: 36px 23px;
-
-
 }
 .i-shop {
   background: url(../images/icon/shop.svg) no-repeat;
   background-size: 31px 26px;
   background-position:5px center;
- 
 }
 .i-fun {
   background: url(../images/icon/fun.svg) no-repeat;
@@ -154,15 +137,12 @@ background-size: 36px 23px;
   background: url(../images/icon/news.svg) no-repeat;
   background-size: 29px 22px;
    background-position:center;
-
 }
 .i-like {
   background: url(../images/icon/like.svg) no-repeat;
 }
 .i-map-point {
-  background: url(../images/icon/map-point.svg) no-repeat;
-
-
+background: url(../images/icon/map-point.svg) no-repeat;
 }
 .i-wechat {
   background: url(../images/icon/wechat.svg) no-repeat;
@@ -196,23 +176,15 @@ INDEX.HTML
 Header Top
 ====================================================*/
 .header-main {
-  
 }
 .header-bg {
-  
   margin-top: 0px;
-
   height: 740px;
-
   background: url(../images/grad.png) no-repeat center 0px;
-  
   /*url(../images/map2.png) 20% 130px no-repeat;*/
- 
-}
+ }
 
 .header-top {
-  
-  
   padding: 20px 0;
   z-index: 999;
 }
@@ -267,7 +239,6 @@ Header Top
   margin-top: -13px;
 }
 .main-contact {
-  
   max-width: 308px;
   display: flex;
   justify-content: flex-end;
@@ -307,8 +278,7 @@ Header Top
 Header Bottom
 ====================================================*/
 .header-bottom {
-  padding: 30px 0 50px 0;
-
+ padding: 30px 0 50px 0;
 }
 .nav-city {
 margin-top: -75px;
@@ -317,8 +287,6 @@ margin-top: -75px;
  height: 490px!important;
  z-index: 0;
  width: 100%;
- 
- 
 }
 .nav-city-menu {
   height: 100%;
@@ -334,8 +302,6 @@ margin-top: -75px;
   font-weight: 600;
   color: #fff;
   padding-bottom: 6px;
- 
-  
 }
 .nav-city-menu a:hover {
   border-color: #00ff00;
@@ -387,13 +353,12 @@ margin-top: -75px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
- margin-left: 20px;
- padding-left:40px;
- padding-right: 40px; 
- width:500px;
+  margin-left: 20px;
+  padding-left:40px;
+  padding-right: 40px; 
+  width:500px;
  }
 .services-menu li {
-
   display: inline-block;
   margin: -10px 143px 60px 0;
 }
@@ -470,31 +435,25 @@ margin-top: -75px;
 Content Products
 ====================================================*/
 .title-products {
-  
   margin-top: -180px;
   font-size: 36px;
   line-height: 40px;
   font-weight: 600;
   text-align: center;
-   
   z-index: 1;
 }
 .block-products {
   max-width: 1326px;
-  
   display: flex;
   justify-content: space-between;
   margin-top: 65px;
   margin-bottom: 50px;
-  
-
 }
 
 
 .item-product {
   position: relative;
   width: 122px;
-  
 }
 .item-category {
   position: absolute;
@@ -525,6 +484,8 @@ Content Products
 .item-link:hover .item-img::after {
   opacity: 0;
 }
+
+
 .item-link:hover .item-btn {
   border-color: #ff017b;
 }
@@ -804,8 +765,7 @@ Breadcrumbs Content
   height: 6px;
 }
 .breadcrumbs li:nth-child(2) a {
- 
- color:#312f42;
+  color:#312f42;
 }
 
 .breadcrumbs li a {
@@ -1143,10 +1103,7 @@ font-size: 20px;
 box-shadow: none!important;
 margin-top: 8px;
 padding-left:9px;
-
-
 text-align: center!important;
-
 }
 
 .citycards{
@@ -1198,7 +1155,6 @@ width: 100%;
 
 .citycards__city p{
   padding-top: 10px!important;
- 
 }
 
 
@@ -1207,6 +1163,7 @@ width: 100%;
   display: flex;
   margin-top: -10px;
   height: 60px;
+border: 0.01px solid red;
 width: 232px;
 margin-left: -1px!important;
 justify-content: center;
@@ -1222,15 +1179,11 @@ margin-top: 20px;
   height: 43px;
   width: 194px;
  max-width: 194px;
-
  font-size: 23.62px;
  color:#f9d725;
- 
- transition-duration: 1s;
+  transition-duration: 1s;
 cursor: pointer;
 margin-right: -1px;
-
-
 }
 
 
@@ -1241,16 +1194,12 @@ margin-right: -1px;
 }
 .citycards__city__caption{
   display: flex;
-  
   width: 100%;
   height: 70px;
- 
-  margin-top:150px;
   padding:0px;
 }
 .citycards__city__caption h3{
   margin-left: 10px;
- 
   height: 70px;
   padding-top: 15px;
   font-size: 24px;
@@ -1269,8 +1218,6 @@ margin-right: -1px;
   width:40px;
   height: 25px;
   margin-top: 18px;
-
-
 }
 
 
@@ -1282,10 +1229,8 @@ margin-right: -1px;
 }
 .citycards__city a:hover{
 color:#cbcad0;
-
 }
 .citycards__city a {
-
 }
 .citycards__city:hover{
   border: 1px solid #18152e;
@@ -1293,47 +1238,74 @@ color:#cbcad0;
 }
 
 .imgcontainer1{
-  border: 1px solid transparent;
+  border: 0.4px solid transparent;
  transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
-  background:url(../images/city1.png) no-repeat -1px -1px;
 }
 
 .imgcontainer2{
-  border: 1px solid transparent;
+  border: 0.4px solid transparent;
   transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
-  background:url(../images/city2.png) no-repeat -1px -1px;
 }
 .imgcontainer3{
-
-  border: 1px solid transparent;
+  border: 0.4px solid transparent;
   transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
   background:url(../images/city3.png) no-repeat -1px -1px;
 }
 .imgcontainer4{
-  border: 1px solid transparent;
+  border: 0.4px solid transparent;
   transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
   background:url(../images/city3.png) no-repeat -1px -1px;
 }
 .imgcontainer5{
-  border: 1px solid transparent;
+  border: 0.4px solid transparent;
   transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
   background:url(../images/city5.png) no-repeat -1px -1px;
 }
+
+.imgcontainer1:hover .item-img::after{
+  opacity:0;
+  transition: 0.5s ease-in-out;
+}
+
+.imgcontainer2:hover .item-img::after{
+  opacity:0;
+  transition: 0.5s ease-in-out;
+}
+
+.imgcontainer3:hover .item-img::after{
+  opacity:0;
+  transition: 0.5s ease-in-out;
+}
+
+.imgcontainer4:hover .item-img::after{
+  opacity:0;
+  transition: 0.5s ease-in-out;
+}
+
+.imgcontainer5:hover .item-img::after{
+  opacity:0;
+
+}
+
+.citycards__city .item-img{
+ width:234px;
+  height:152px; 
+}
+
 .imgcontainer1:hover{
   transition: 0.5s ease-in-out;
   width:232px;
   height:460px;
-  background:url(../images/city1h.png) no-repeat -1px -1px;
 }
 .imgcontainer2:hover{
   width:232px;
@@ -1359,8 +1331,6 @@ color:#cbcad0;
 
 .icon{
   width: 30px;
-
-  
   height:40px;
   margin-top: 10px;
   margin:7px;
@@ -1380,7 +1350,6 @@ margin-left:12.5px;
   background: url(../images/map_for_city.svg) no-repeat;
   background-size:25px 17px; 
   background-position:center;
-
 }
 .citycards__city__text img{
 width: 15px;
@@ -1391,10 +1360,33 @@ margin-top: 12px;
 }
 
 .citycards__city__text span{
-  color:#e30713 ;
-font-weight: bold;}
+color:#e30713 ;
+font-weight: bold;
+}
 
 .information{
-  
-  margin: 0 auto;
+ margin: 0 auto;
+}
+
+.btn{
+    background: transparent;
+margin-top: 20px;
+  border:4px solid #e30713;
+  border-radius: 50px;
+  height: 43px;
+  width: 194px;
+ max-width: 194px;
+ font-size: 23.62px;
+ color:#f9d725;
+  transition-duration: 1s;
+cursor: pointer;
+padding-top: 0px;
+margin:10px auto;
+display: block;
+}
+
+.btn:hover{
+  background: #e30713;
+  border-color:#f9d725; 
+  color:#ffffff;
 }
